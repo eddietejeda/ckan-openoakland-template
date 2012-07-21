@@ -31,7 +31,7 @@ header #logo {
 
 header #site-name {
   font-size: 1.4em;
-  font-family: Ubuntu, sans-serif;
+  font-family: sans-serif;
   padding: 5px;
   padding-left: 82px;
   padding-bottom: 2px;
@@ -131,7 +131,7 @@ footer h3 {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Ubuntu', Georgia;
+  font-family: Georgia;
   font-weight: normal;
   margin-bottom: 10px;
 }
@@ -438,7 +438,7 @@ body.index.home .front-page .action-box-inner a {
   font-weight: bold;
 }
 body.index.home .front-page .action-box-inner input {
-  font-family: 'Ubuntu';
+  /*font-family: 'Ubuntu';*/
   border-radius: 10px;
   background-color: #fff;
   font-size: 1.3em;
@@ -455,7 +455,7 @@ body.index.home .front-page .action-box-inner .create-button {
   display: block;
   float: right;
   font-weight: normal;
-  font-family: 'Ubuntu';
+  /*font-family: 'Ubuntu';*/
   margin-top: 1.5em;
   /*border-radius: 10px;*/
   background-color: #B22;
