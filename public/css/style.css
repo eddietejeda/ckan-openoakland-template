@@ -50,9 +50,10 @@ header .menu form {
 }
 
 header .menu input {
-  width: 200px;
-  margin-top: 2px;
-  height: 10px;
+    font-size: 120%;
+    height: 18px;
+    padding: 5px;
+    width: 200px;
 }
 
 header .menu a {
